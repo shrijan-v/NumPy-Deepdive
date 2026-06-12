@@ -1,26 +1,4 @@
-# 📊 30-Day Data Analytics Internship — Python & Pandas
-
-> A structured, hands-on curriculum covering Python, NumPy, Pandas, Data Visualization,
-> SQL, and Machine Learning fundamentals — one focused task per day.
-
----
-
-## 🗂️ Repository Structure
-
-```
-30-day-data-analytics/
-├── README.md
-├── day01/
-├── day02/
-├── ...
-├── day06/
-│   └── day6_numpy.py       ← NumPy Deep Dive
-└── day07/
-```
-
----
-
-## 📅 Day 6 — NumPy Deep Dive
+NumPy Deep Dive
 
 **Phase:** 2 — Python & Pandas
 **Type:** Practical · Tool
