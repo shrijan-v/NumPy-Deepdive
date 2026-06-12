@@ -151,9 +151,9 @@ day6_numpy.py
 
 ### 👤 Author
 
-**Your Name**
-Data Analytics Intern · 30-Day Curriculum
-[GitHub](https://github.com/your-username) · [LinkedIn](https://linkedin.com/in/your-profile)
+**V Shrijan**
+Data Analytics Intern ·
+[GitHub](https://github.com/v-shrijan)
 
 ---
 
