@@ -152,8 +152,8 @@ day6_numpy.py
 ### 👤 Author
 
 **V Shrijan**
-Data Analytics Intern ·
-[GitHub](https://github.com/v-shrijan)
+Data Analytics Intern
+[GitHub](https://github.com/shrijan-v)
 
 ---
 
